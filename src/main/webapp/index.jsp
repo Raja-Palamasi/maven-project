@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello everyone How was the jenkins
- But looking easy through ec2 instances</h2>
+<h2>Deploying war file in tomact servers through ansible</h2>
 </body>
 </html>
